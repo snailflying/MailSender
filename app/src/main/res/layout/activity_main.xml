@@ -26,7 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:hint="请输入发件服务器地址"
-            android:text="smtp.qq.com"
+            android:text="smtp.126.com"
             android:textSize="14sp"/>
 
         <TextView
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:hint="请输入接收邮箱"
-            android:text="587"
+            android:text="25"
             android:textSize="14sp"/>
 
         <TextView
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="发件邮箱授权码（密码）"/>
+            android:text="发件邮箱授权码"/>
 
         <EditText
             android:id="@+id/etFromPwd"
