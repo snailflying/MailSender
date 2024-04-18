@@ -16,13 +16,7 @@ MailSender基于[JavaMail for Android](https://javaee.github.io/javamail/Android
 
 ### 集成
 
-```
-repositories {
-   jcenter()    
-}
-
-implementation 'com.teprinciple:mailsender:1.2.0'
-```
+建议源码集成，直接依赖mailsender模块，或者自己生产jar包依赖
 
 ### 使用
 
