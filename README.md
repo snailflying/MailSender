@@ -99,9 +99,6 @@ content = SpanUtils(this@MainActivity)
 | openSSL        | ssl验证开关(是否打开依据邮箱提供商配置)    | false                           |
 | sslFactory     | ssl实现类  只在openSSL=true时生效 | fjavax.net.ssl.SSLSocketFactory |
 
-### Demo体验
-
-<img src="https://github.com/teprinciple/MailSender/blob/master/img/demo.png" width="220">
 
 #### 关于授权码的获取
 
