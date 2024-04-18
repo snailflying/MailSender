@@ -2,6 +2,9 @@
 
 ### 简介
 
+来自：https://github.com/teprinciple/MailSender
+更新到最新gradle以及kotlin版本
+
 MailSender基于[JavaMail for Android](https://javaee.github.io/javamail/Android)开发，旨在帮助开发者在Android平台快速实现邮件发送
 
 ### MailSender 特点
